@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+}
+
+.rochambeau {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
